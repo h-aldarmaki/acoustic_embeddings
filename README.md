@@ -1,5 +1,5 @@
 # Acoustic Embeddings
-Python code to replicate experiments described in "Supervised Acoustic Embeddings And Their Transferability Across Languages". ICNLSP 2022.
+Python code to replicate experiments described in **"Supervised Acoustic Embeddings And Their Transferability Across Languages"**. ICNLSP 2022.
 
 ## Training & Evaluation
 
